@@ -1,9 +1,10 @@
 # Excel-clone
-Excel-Clone using - JQuery ,HTML,CSS, javascript
+The software has been made using made using - HTML,CSS, javascript and JQuery
  
 # Functionalities:
 This project have  different formatting <br>
-  <li>textcolor,fillcolor,alignment,cut ,copy,paste.</li>
-  <li>we can save our excel file </li>
-  <li>we can add/delete sheeet  </li>
-  <li>add new file and also open the old saved one.  </li>
+  <li>Alter text color, fill color, font</li>
+  <li>Implement cut, copy and paste functionalities</li>
+  <li>Addition/deletion of excel sheets</li>
+  <li>Save and Update our Excel Sheet</li>
+  <li>add a completely new file and also open the older saved files  </li>
