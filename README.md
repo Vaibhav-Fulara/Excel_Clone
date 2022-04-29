@@ -1,9 +1,5 @@
 # Excel-clone
 Excel-Clone using - JQuery ,HTML,CSS, javascript
-
-## Demo :
- 
- <img src="https://github.com/swaraj961/Excel-clone/blob/master/demo.gif"/>
  
 # Functionalities:
 This project have  different formatting <br>
