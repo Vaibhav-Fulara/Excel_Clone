@@ -1,5 +1,5 @@
 # Excel-clone
-The software has been made using made using - HTML,CSS, javascript and JQuery
+The software has been made using - HTML,CSS, javascript and JQuery
  
 # Functionalities:
 This project have  different formatting <br>
